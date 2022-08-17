@@ -1,0 +1,640 @@
+body {
+  direction: rtl;
+  text-align: right;
+}
+.header-nav .nav > li .sub-menu li .fa {
+  float: left;
+  left: 15px;
+  right: unset;
+  top: 16px;
+  transform: rotate(180deg);
+}
+.header-nav .nav > li .sub-menu li.open .fa {
+  transform: rotate(180deg);
+  top: 5px;
+}
+.header-nav .nav > li .sub-menu.right li:hover .sub-menu,
+.header-nav .nav > li .sub-menu.right li > .sub-menu {
+  left: auto;
+  right: 220px;
+}
+.header-nav .nav > li .sub-menu.right {
+  left: auto;
+}
+.new-page {
+  margin-right: 2px;
+  display: inline-block;
+}
+.fullwidth .logo-header {
+  float: right;
+  margin-left: 30px;
+  margin-right: 0;
+}
+.header-nav .nav i {
+  margin-left: 0;
+}
+.extra-nav {
+  float: left;
+}
+.header-nav .nav {
+  float: left;
+}
+.extra-nav .site-button {
+    font-family: iranyekan;
+  margin-left: 0;
+  margin-right: 10px;
+}
+.is-fixed .navbar-toggler,
+.navbar-toggler {
+  margin-left: 0;
+  margin-right: 10px;
+}
+.navbar-toggler {
+  float: left;
+}
+.navicon.open span:nth-child(2) {
+  left: 60px;
+}
+.browse-job-find .form-group label,
+.find-job-bx .form-group label {
+  left: auto;
+  right: 0;
+}
+.find-job-bx h2 {
+  text-align: right;
+}
+.breadcrumb-row ul li::after {
+  display: inline-block;
+  margin: 0 6px 0 0;
+  content: '\f104';
+}
+.find-job-bx {
+  text-align: right;
+}
+.canditate-des .upload-link {
+  right: auto;
+  left: 0;
+}
+.candidate-info.company-info .update {
+  right: auto;
+  left: -100px;
+}
+.candidate-info .update {
+  right: auto;
+  left: -70px;
+}
+.upload-link + .update::after {
+  left: auto;
+  right: -7px;
+  transform: rotate(180deg);
+}
+.job-post-company {
+  margin-left: 20px;
+  margin-right: 0;
+}
+.cv-manager ul li i,
+.post-job-bx ul li i {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.cv-manager ul li,
+.post-job-bx ul li {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.candidates-bx::after,
+.candidates-bx::before {
+  transform: rotate(180deg);
+}
+.candidates-bx::after {
+  right: auto;
+  left: 0;
+}
+.mr-auto,
+.mx-auto {
+  margin-left: auto;
+  margin-right: unset !important;
+}
+.browse-job .form-control {
+  margin-left: 25px;
+  margin-right: 0;
+}
+.candidate-info ul li a:hover span {
+  margin: 0 10px 0 0;
+}
+.candidate-info ul li a i {
+  margin: 0 0 0 5px;
+}
+.table-job-bx .feature {
+  padding-left: 0;
+  padding-right: 20px;
+}
+.table-job-bx .job-links {
+  padding: 20px 5px 20px 20px;
+  left: 0;
+  right: auto;
+}
+.like-btn {
+  right: auto;
+  left: 25px;
+}
+.post-bx .job-post-info h5 {
+  margin-right: 0;
+  margin-left: 35px;
+}
+.job-links {
+  right: auto;
+  left: 25px;
+}
+.sidebar-filter .acod-head a::after {
+  right: auto;
+  left: 20px;
+}
+.job-bx-title .float-right,
+.sidebar-filter .title .float-right {
+  float: left !important;
+}
+.job-bx-title .pull-left {
+  float: right !important;
+}
+.post-job-bx .post-bx {
+  border-right: 5px solid;
+  border-left: 0;
+  border-color: #e1e7ff;
+}
+.candidate-info ul li a {
+  border-left: 0;
+  border-right: 3px solid transparent;
+}
+.candidate-info ul li a.active,
+.candidate-info ul li a:hover {
+  border-right-color: #2e55fa;
+}
+.tag_complete .tags_container .tag .close::after {
+  border-radius: 3px 0 0 3px !important;
+  margin-right: 10px;
+  margin-left: 0 !important;
+}
+.tag_complete .tags_container .tag .close {
+  float: left;
+}
+.tag_complete .tags_container .tag {
+  padding: 2px 10px 2px 0 !important;
+}
+.profile-edit .canditate-des {
+  margin: 0 0 30px 30px;
+}
+.profile-edit .candidate-detail .browse-job.text-left {
+  text-align: right !important;
+}
+.profile-edit .m-l15.font-16 {
+  margin-right: 15px;
+  margin-left: 0;
+}
+.progress-box .progress-info span {
+  float: left;
+}
+.progress-box .progress-info {
+  text-align: right;
+}
+.profile-edit .candidate-info ul li i {
+  margin-right: 0;
+  text-align: right;
+  float: right;
+  margin-left: 10px;
+  line-height: 25px;
+}
+.job-bx.bg-white .d-flex.m-r10 {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.posted-info .float-left {
+  float: right !important;
+  display: -webkit-inline-flex;
+}
+.posted-info .float-left .text-black.m-r10 {
+  margin: 0 0 0 10px;
+}
+.posted-info .site-button.button-sm.float-right {
+  float: left !important;
+}
+.d-flex .site-button.add-btn.button-sm i {
+  transform: rotate(0);
+  margin: 0 0 0 5px;
+  line-height: 3px;
+}
+.job-alert-bx {
+  padding: 10px 0 10px 10px;
+}
+.job-bx-title .float-right {
+  display: inline-flex;
+}
+.job-bx-title .float-right .select-title {
+  margin: 0 0 0 10px;
+}
+.pagination-bx .previous a {
+  border-radius: 0 4px 4px 0 !important;
+}
+.pagination-bx .next a {
+  border-radius: 4px 0 0 4px !important;
+}
+.pagination-bx .pagination i {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+.d-flex .site-button.button-sm i {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+.modal-bx-info .modal-header .close {
+  border-right: 1px solid #e0e0e0;
+  padding: 28px 20px;
+  margin-left: -20px;
+}
+.modal-bx-info .modal-header .modal-title {
+  margin-left: auto;
+  margin-right: 20px;
+}
+.modal-bx-info .modal-body li strong {
+  float: right;
+  margin-right: 0;
+  margin-left: 20px;
+}
+.modal-footer > :not(:first-child) {
+  margin: 0 3px 0 0;
+}
+.modal-footer > :not(:last-child) {
+  margin: 0 0 0 3px;
+}
+.dez-post-meta i {
+  margin: 0 0 0 5px;
+}
+.recent-posts-entry .dez-post-media {
+  padding: 0 0 0 15px;
+}
+.blog-md .dez-post-info {
+  padding: 0 30px 0 0;
+}
+blockquote {
+  padding: 16px 80px 16px 20px;
+  border: solid;
+  border-width: 0 4px 0 0;
+}
+blockquote::before {
+  content: '\f10e';
+  left: auto;
+  right: 20px;
+}
+ol.comment-list li.comment .reply {
+  right: auto;
+  left: 30px;
+}
+.comments-area .comment-form p input[type='text'],
+.comments-area .comment-form p textarea {
+  padding: 10px 50px 10px 10px;
+}
+.comments-area p::before {
+  left: auto;
+  right: 15px;
+  border-radius: 0 4px 4px 0;
+}
+.blog-grid .dez-post-meta i {
+  margin: 0 5px;
+}
+ol.comment-list li.comment .comment-body {
+  margin-left: auto;
+  margin-right: 80px;
+}
+ol.comment-list li.comment .comment-author .avatar {
+  left: auto;
+  right: -80px;
+}
+ol.comment-list li.comment .comment-body::before {
+  left: auto;
+  right: -12px;
+  transform: rotate(180deg);
+}
+ol.comment-list li.comment .comment-body::after {
+  left: auto;
+  right: -14px;
+  transform: rotate(180deg);
+}
+ol.comment-list li .children {
+  margin-left: auto;
+  margin-right: 20px;
+}
+ol.comment-list li.comment .comment-meta::before {
+  float: right;
+  margin-left: 5px;
+}
+.list-num-count.no-round > li::before {
+  left: auto;
+  right: -30px;
+}
+.list-num-count > li {
+  margin: 0 30px 6px 0;
+}
+.job-info li {
+  margin-right: 0;
+  margin-left: 10px;
+}
+.job-info-box .title-head .m-r30 {
+  margin-right: 0;
+}
+.category-jobs-info .nav ul li {
+  float: right;
+}
+.custom-control-label::after,
+.custom-control-label::before {
+  left: auto;
+  right: 0;
+}
+.custom-control {
+  padding-left: 0;
+  padding-right: 22px;
+}
+.widget_archive ul li::before,
+.widget_categories ul li::before,
+.widget_meta ul li::before,
+.widget_nav_menu ul li::before,
+.widget_pages ul li::before,
+.widget_recent_comments ul li::before,
+.widget_recent_entries ul li::before,
+.widget_services ul li::before {
+  content: '\f104';
+  left: auto;
+  right: 0;
+}
+.widget_archive ul li,
+.widget_categories ul li,
+.widget_meta ul li,
+.widget_nav_menu li,
+.widget_pages ul li,
+.widget_recent_comments ul li,
+.widget_recent_entries ul li,
+.widget_services ul li {
+  padding: 10px 15px 10px 10px;
+}
+.widget_getintuch li {
+  padding-left: 0;
+  padding-right: 40px;
+}
+.widget_getintuch i {
+  left: auto;
+  right: 0;
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option,
+.job-bx-title .bootstrap-select div.dropdown-menu ul li a {
+  text-align: right;
+}
+.bootstrap-select.btn-group .dropdown-toggle .caret {
+  right: auto;
+  left: 12px;
+}
+.find-job-bx .bootstrap-select.btn-group .dropdown-toggle .caret {
+  right: auto;
+  left: 0;
+}
+.bootstrap-select .dropdown-menu > li > a {
+  text-align: right;
+}
+.bootstrap-select > .dropdown-toggle {
+  padding: 8px 16px 8px 25px;
+}
+.contact-style-1 .icon-bx-wraper .icon-bx-xs {
+  float: right;
+  margin: 0 0 0 20px;
+}
+.contact-style-1 .dez-social-icon-lg {
+  text-align: right;
+}
+.login-style2 .site-button.float-left,
+.shop-account .site-button.m-r5.button-lg {
+  float: right !important;
+}
+.browse-job.shop-account .text-left {
+  text-align: right !important;
+}
+.login-style2 .forget-pass.float-right,
+.shop-account .forget-pass {
+  float: left !important;
+}
+.lead-form h3 {
+  text-align: right;
+}
+.lead-form-modal .close {
+  right: auto;
+  left: 0;
+}
+.login-form.style-2 .form-group.text-left .site-button,
+.login-form.style-2 .logo-header {
+  float: right;
+}
+.login-style3 .dez-form .site-button.outline {
+  float: left !important;
+}
+.login-form-bx.login-style2 .box-skew .login-2 .text-left .forget-pass,
+.login-form-bx.login-style2 .box-skew .login-2 .text-left .site-button.outline {
+  float: left;
+}
+.login-form-bx.login-style2 .box-skew .login-2 .text-left {
+  text-align: right !important;
+}
+.login-form-bx .box-skew .login-2 .form-control {
+  margin-left: 0;
+}
+.login-form-bx .box-skew .login-2::after {
+  left: auto;
+  right: 0;
+}
+.login-2 {
+  float: left;
+}
+.login-footer .float-left {
+  float: right !important;
+}
+.login-footer .float-right {
+  float: left !important;
+}
+.recaptcha-bx .input-group {
+  direction: ltr;
+}
+.login-form-bx .box-skew .login-2 {
+  right: auto;
+  left: 20px;
+}
+.login-form-bx .box-skew1::after {
+  left: auto;
+  right: -30px;
+}
+.mfp-counter {
+  right: auto;
+  left: 0;
+  direction: ltr;
+}
+.mfp-title {
+  text-align: right;
+  padding-left: 36px;
+  padding-right: 0;
+}
+.add-btn {
+  margin-right: auto;
+  margin-left: 0;
+}
+.list-check li:before {
+  left: auto;
+  right: 0;
+}
+.list-check li {
+  padding: 5px 30px 5px 5px;
+}
+.browse-job .bg-gray .text-black.m-r10 {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.browse-job form.p-a25 {
+  padding: 25px 15px 25px 25px;
+}
+.browse-job.content-inner-2 .job-bx.bg-white .col-lg-12.text-center {
+  text-align: right !important;
+}
+.profile-edit .list-check li {
+  padding: 2px 25px 2px 5px;
+}
+.list-2 li::before {
+  left: auto;
+  right: 0;
+}
+.list-2 li {
+  padding: 5px 20px 5px 5px;
+}
+.subscribe-form .input-group-btn {
+  padding-right: 10px;
+  padding-left: 0;
+}
+.job-links i {
+  margin: 0 5px 0 0;
+}
+.cv-manager .job-post-company {
+  margin: 0 0 0 20px;
+}
+.category-bx li a img {
+  border-left: 1px solid #bfdcff;
+  border-right: 0;
+  margin-right: auto;
+  margin-left: 10px;
+}
+.category-bx li a {
+  padding: 5px 5px 5px 10px;
+}
+@media only screen and (max-width: 1024px) {
+  .cv-manager .action-bx {
+    right: auto;
+    left: 5px;
+  }
+  .header-nav .nav > li .sub-menu.right li:hover .sub-menu,
+  .header-nav .nav > li .sub-menu.right li > .sub-menu {
+    left: 220px;
+    right: auto;
+  }
+  .header-nav .nav > li .sub-menu.right {
+    left: 0;
+    right: auto;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .mo-left .navbar-toggler.open:after {
+    transform-origin: left;
+    -webkit-transform-origin: left;
+    -ms-transform-origin: left;
+    -o-transform-origin: left;
+    -moz-transform-origin: left;
+  }
+  .navbar-toggler {
+    float: left;
+  }
+  .mo-left .header-nav {
+    left: auto;
+    right: -280px;
+  }
+  .mo-left .header-nav.show {
+    left: auto;
+    right: 0;
+  }
+  .nav.navbar-nav li a i.fa-angle-right,
+  .nav.navbar-nav li a i.fa-chevron-down,
+  .side-nav .nav.navbar-nav li a i.fa-chevron-down {
+    left: 0;
+    right: auto;
+  }
+  .nav.navbar-nav li.open a i.fa-chevron-down::before,
+  .side-nav .nav.navbar-nav li.open a i.fa-chevron-down::before {
+    content: '\f053';
+  }
+}
+@media only screen and (max-width: 600px) {
+  .job-alert-bx {
+    padding: 10px 0 25px 10px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .modal-bx-info .modal-body li strong {
+    float: unset;
+  }
+  .browse-job form.p-a25 {
+    padding: 25px 0;
+  }
+  ol.comment-list li.comment .comment-author .avatar {
+    right: -58px;
+  }
+  ol.comment-list li.comment .comment-body {
+    margin-right: 52px;
+  }
+}
+.theme-btn:hover span {
+  padding-left: 0;
+  padding-right: 10px;
+}
+.lg-outer {
+  direction: ltr;
+}
+body.dark-theme .post-job-bx .post-bx {
+  border-right-color: #30313e;
+}
+body.dark-theme .post-job-bx .post-bx:hover {
+  border-right-color: var(--primary);
+}
+body.dark-theme .main-slider:after {
+  background: -moz-linear-gradient(
+    right,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: -webkit-linear-gradient(
+    right,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: linear-gradient(
+    to left,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+}
+.main-slider:after {
+  background: -moz-linear-gradient(
+    right,
+    rgba(255, 255, 255, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: -webkit-linear-gradient(
+    right,
+    rgba(255, 255, 255, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: linear-gradient(
+    to left,
+    rgba(255, 255, 255, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+}

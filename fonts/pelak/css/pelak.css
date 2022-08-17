@@ -1,0 +1,79 @@
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/eot/Pelak-Bold.eot');
+	src: url('../fonts/eot/Pelak-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-Bold.woff') format('woff'),
+		 url('../fonts/otf/Pelak-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../fonts/eot/Pelak-Thin.eot');
+	src: url('../fonts/eot/Pelak-thind41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-Thin.woff') format('woff'),
+		 url('../fonts/otf/Pelak-Thin.otf') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/eot/Pelak-light.eot');
+	src: url('../fonts/eot/Pelak-lightd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-light.woff') format('woff'),
+		 url('../fonts/otf/Pelak-light.otf') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/eot/Pelak-regular.html');
+	src: url('../fonts/eot/Pelak-regulard41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-regular.html') format('woff'),
+		 url('../fonts/otf/Pelak-regular.html') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/eot/Pelak-Medium.eot');
+	src: url('../fonts/eot/Pelak-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-Medium.woff') format('woff'),
+		 url('../fonts/otf/Pelak-Medium.otf') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../fonts/eot/Pelak-semiBold.html');
+	src: url('../fonts/eot/Pelak-semiBoldd41d.html?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-semiBold.html') format('woff'),
+		 url('../fonts/otf/Pelak-semiBold.html') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/eot/Pelak-ExtraBold.eot');
+	src: url('../fonts/eot/Pelak-ExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-ExtraBold.woff') format('woff'),
+		 url('../fonts/otf/Pelak-ExtraBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: pelak;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../fonts/eot/Pelak-Black.eot');
+	src: url('../fonts/eot/Pelak-Blackd41d.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/woff/Pelak-Black.woff') format('woff'),
+		 url('../fonts/otf/Pelak-Black.otf') format('opentype');
+}

@@ -1,0 +1,299 @@
+body.dark-theme {
+  --primary: #2e55fa;
+  --primary-hover: #1d46f5;
+  --secondary: #ffffff;
+  --rgba-primary-05: rgba(46, 85, 250, 0.05);
+  --rgba-primary-1: rgba(46, 85, 250, 0.1);
+  --rgba-primary-2: rgba(46, 85, 250, 0.2);
+  --rgba-primary-3: rgba(46, 85, 250, 0.3);
+  --rgba-primary-4: rgba(46, 85, 250, 0.4);
+  --rgba-primary-5: rgba(46, 85, 250, 0.5);
+  --rgba-primary-6: rgba(46, 85, 250, 0.6);
+  --rgba-primary-7: rgba(46, 85, 250, 0.7);
+  --rgba-primary-8: rgba(46, 85, 250, 0.8);
+  --rgba-primary-9: rgba(46, 85, 250, 0.9);
+  --title: #fff;
+  --white: #0b0b2a;
+}
+body.dark-theme {
+  color: #999;
+}
+body.dark-theme .acod-head a.collapsed,
+body.dark-theme .acod-head a.collapsed:after,
+body.dark-theme .bootstrap-select div.dropdown-menu ul li a,
+body.dark-theme .browse-job .btn.dropdown-toggle.btn-default,
+body.dark-theme .browse-job .job-post-info .site-button:hover,
+body.dark-theme .browse-job label,
+body.dark-theme .candidate-info ul li a,
+body.dark-theme .candidates-bx .testimonial-text p,
+body.dark-theme .close,
+body.dark-theme .comments-area .comment-form p input[type='text'],
+body.dark-theme .comments-area .comment-form p textarea,
+body.dark-theme .custom-control-label.site-button-link,
+body.dark-theme .find-job-bx .bootstrap-select .dropdown-toggle,
+body.dark-theme .find-job-bx .bootstrap-select .dropdown-toggle:active,
+body.dark-theme .find-job-bx .bootstrap-select .dropdown-toggle:focus,
+body.dark-theme .find-job-bx .bootstrap-select .dropdown-toggle:hover,
+body.dark-theme .find-job-bx .form-control,
+body.dark-theme .find-job-bx .form-group label,
+body.dark-theme .form-control,
+body.dark-theme .fullwidth .is-fixed .header-nav .nav > li > a,
+body.dark-theme .head-counter h6,
+body.dark-theme .header-nav .nav > li .sub-menu li a,
+body.dark-theme .header-nav .nav > li > a,
+body.dark-theme .job-bx-title .btn.dropdown-toggle.btn-default,
+body.dark-theme .job-info li strong,
+body.dark-theme .job-profile label,
+body.dark-theme .job-search-form .form-control,
+body.dark-theme .job-time span,
+body.dark-theme .layout-btn,
+body.dark-theme .layout-btn:before,
+body.dark-theme .like-btn .checkmark:before,
+body.dark-theme .list-num-count.no-round > li:before,
+body.dark-theme .modal-bx-info .modal-body li strong,
+body.dark-theme .modal-bx-info .modal-header .modal-title,
+body.dark-theme .nav.navbar-nav li a i.fa-angle-right,
+body.dark-theme .nav.navbar-nav li a i.fa-chevron-down,
+body.dark-theme .news-box form:after,
+body.dark-theme .pagination > li > a,
+body.dark-theme .pagination > li > span,
+body.dark-theme .pricingtable-wrapper.style2 .site-button.white:hover span,
+body.dark-theme .salary-bx span,
+body.dark-theme .search-bx.style-1 .input-group-btn button,
+body.dark-theme .section-head p,
+body.dark-theme .select-title,
+body.dark-theme .side-nav .nav.navbar-nav li a i.fa-chevron-down,
+body.dark-theme .site-filters.style1 li a,
+body.dark-theme .submit-resume label,
+body.dark-theme .table-job-bx .job-name a,
+body.dark-theme .testimonial-text p,
+body.dark-theme .text-black,
+body.dark-theme blockquote,
+body.dark-theme ol.comment-list li.comment .comment-author .fn,
+body.dark-theme p a,
+body.dark-theme table thead th {
+  color: #fff;
+}
+body.dark-theme .bg-gray,
+body.dark-theme .browse-candidates .form-control,
+body.dark-theme .browse-job .form-control,
+body.dark-theme .candidate-info .candidate-detail,
+body.dark-theme .candidate-info ul li a,
+body.dark-theme .candidates-are-sys,
+body.dark-theme .card,
+body.dark-theme .comment-respond,
+body.dark-theme .custom-control-label:before,
+body.dark-theme .dropdown-menu,
+body.dark-theme .find-job-bx form,
+body.dark-theme .header-nav .nav > li .sub-menu,
+body.dark-theme .job-bx,
+body.dark-theme .login-2,
+body.dark-theme .login-form-bx .box-skew .login-2:after,
+body.dark-theme .modal-bx-info .modal-body,
+body.dark-theme .modal-bx-info .modal-footer,
+body.dark-theme .modal-bx-info .modal-header,
+body.dark-theme .pagination > li > a,
+body.dark-theme .pagination > li > span,
+body.dark-theme .post-job-bx > li:nth-of-type(2n + 1) .post-bx,
+body.dark-theme .pricingtable-wrapper.style2,
+body.dark-theme .sidebar-filter,
+body.dark-theme .widget-newslatter .news-box,
+body.dark-theme blockquote,
+body.dark-theme ol.comment-list li.comment .comment-body {
+  background-color: #222339;
+}
+body.dark-theme .acod-body,
+body.dark-theme .acod-head a,
+body.dark-theme .bootstrap-select div.dropdown-menu,
+body.dark-theme .category-bx li a,
+body.dark-theme .category-bx li a img,
+body.dark-theme .comment-respond,
+body.dark-theme .comments-area .comment-form p input[type='text'],
+body.dark-theme .comments-area .comment-form p textarea,
+body.dark-theme .comments-area p:before,
+body.dark-theme .company-logo-wg li,
+body.dark-theme .contact-style-1 .border-1,
+body.dark-theme .contact-style-1 .form-control,
+body.dark-theme .cv-manager > li,
+body.dark-theme .dez-box[class*='border-'],
+body.dark-theme .dez-info[class*='border-'],
+body.dark-theme .dez-post-tags,
+body.dark-theme .dez-post-tags .post-tags a,
+body.dark-theme .header-nav .nav > li .sub-menu,
+body.dark-theme .header-nav .nav > li > a,
+body.dark-theme .job-bx-title,
+body.dark-theme .job-search-form .form-control,
+body.dark-theme .list-row .list-line,
+body.dark-theme .modal-bx-info .modal-footer,
+body.dark-theme .modal-bx-info .modal-header,
+body.dark-theme .modal-bx-info .modal-header .close,
+body.dark-theme .pagination > li > a,
+body.dark-theme .pagination > li > span,
+body.dark-theme .search-bx.style-1 .input-group,
+body.dark-theme .table-job-bx tbody tr,
+body.dark-theme .widget-newslatter .form-control,
+body.dark-theme .widget.bg-white,
+body.dark-theme ol.comment-list li.comment .comment-body {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+body.dark-theme .candidate-info ul li a,
+body.dark-theme .contact-style-1 .dez-social-icon-lg {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+body.dark-theme .post-job-bx .post-bx {
+  border-left-color: #30313e;
+}
+body.dark-theme .post-job-bx .post-bx:hover {
+  border-left-color: var(--primary);
+}
+body.dark-theme .bg-gray-dark {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+body.dark-theme .testimonial-pic {
+  border-color: #0b0b2a;
+}
+body.dark-theme .checkmark {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+body.dark-theme .browse-job .job-alert-bx .btn.dropdown-toggle.btn-default,
+body.dark-theme .contact-style-1 .form-control,
+body.dark-theme .job-bx .btn.dropdown-toggle.btn-default,
+body.dark-theme .modal-bx-info .modal-body .btn.dropdown-toggle.btn-default,
+body.dark-theme .submit-resume .btn.dropdown-toggle.btn-default,
+body.dark-theme .submit-resume .form-control {
+  background-color: #0e0f20 !important;
+}
+body.dark-theme .browse-job.login-style2 .form-control,
+body.dark-theme .card .form-control,
+body.dark-theme .category-bx li a,
+body.dark-theme .comments-area .comment-form p input[type='text'],
+body.dark-theme .comments-area .comment-form p textarea,
+body.dark-theme .custom-file,
+body.dark-theme .job-bx .form-control,
+body.dark-theme .tag_complete,
+body.dark-theme .widget-newslatter .form-control {
+  background-color: #0e0f20;
+}
+body.dark-theme .browse-job .form-control,
+body.dark-theme .browse-job .form-control::placeholder {
+  color: #dbdbdb;
+}
+body.dark-theme .browse-job .job-post-info a:hover,
+body.dark-theme .browse-job-grid a:hover,
+body.dark-theme .candidate-title a:hover,
+body.dark-theme .category-list li a:hover,
+body.dark-theme .cv-manager .job-post-info a:hover,
+body.dark-theme .forget-pass:hover,
+body.dark-theme .login-2 .forget-pass:hover,
+body.dark-theme .login-form .forget-pass:hover,
+body.dark-theme .login-form label a:hover,
+body.dark-theme .post-job-bx .job-post-info li a:hover,
+body.dark-theme .save-job .criterias a:hover,
+body.dark-theme .table-job-bx .job-name a:hover {
+  color: #2e55fa;
+}
+body.dark-theme .header-nav .nav > li .sub-menu li a:hover,
+body.dark-theme .job-time span,
+body.dark-theme .pagination li a:hover,
+body.dark-theme .pagination li.active a,
+body.dark-theme .sidebar-filter .custom-checkbox .custom-control-label::before,
+body.dark-theme .sidebar-filter .custom-radio .custom-control-label::before {
+  background-color: var(--primary);
+}
+body.dark-theme .candidates-bx:after,
+body.dark-theme .candidates-bx:before,
+body.dark-theme .layout-btn:after {
+  color: var(--primary);
+}
+body.dark-theme,
+body.dark-theme .canditate-des .upload-link,
+body.dark-theme .job-bx .custom-control-label:before,
+body.dark-theme .job-search-form .form-control,
+body.dark-theme .search-bx.style-1 .form-control {
+  background-color: #0b0b2a;
+}
+body.dark-theme .post-job-bx .post-bx {
+  background-color: #161722;
+}
+body.dark-theme .job-bx .browse-job-grid .post-bx {
+  background-color: #161722 !important;
+}
+body.dark-theme .post-job-bx ul li,
+body.dark-theme ol.comment-list li.comment .comment-meta,
+body.dark-theme ol.comment-list li.comment .comment-meta a,
+body.dark-theme ol.comment-list li.comment .reply a:before,
+body.dark-theme ol.comment-list li.comment p {
+  color: #dbdbdb;
+}
+body.dark-theme .table-job-bx tbody tr:nth-child(2n + 2) {
+  background-color: #2b2d46;
+}
+body.dark-theme .table-job-bx thead th {
+  background-color: #393c5a;
+}
+body.dark-theme .job-bx .bg-gray,
+body.dark-theme .job-post-info .posted-info {
+  background-color: #0e0f20;
+}
+body.dark-theme ol.comment-list li.comment .comment-body:before {
+  border-color: transparent #222339 transparent rgba(255, 255, 255, 0.1);
+}
+body.dark-theme ol.comment-list li.comment .comment-body:after {
+  border-color: transparent #39394d transparent #39394d;
+}
+body.dark-theme .main-slider:after {
+  background: -moz-linear-gradient(
+    left,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: -webkit-linear-gradient(
+    left,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+  background: linear-gradient(
+    to right,
+    rgba(11, 11, 42, 0.9) 40%,
+    rgba(125, 185, 232, 0) 100%
+  );
+}
+body.dark-theme .is-fixed .main-bar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+body.dark-theme .navbar-toggler span {
+  background-color: #fff;
+}
+body.dark-theme .site-button.white:hover .text-primary {
+  color: var(--primary) !important;
+}
+@media only screen and (max-width: 991px) {
+  .header-nav .nav .open > a:focus,
+  body.dark-theme .header-nav .nav .open > a,
+  body.dark-theme .header-nav .nav .open > a:hover {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  body.dark-theme .header-nav .nav,
+  body.dark-theme .mo-left .header-nav {
+    background-color: #222339;
+  }
+}
+body.dark-theme .browse-job .btn.dropdown-toggle.btn-default,
+body.dark-theme .job-bx-title .btn.dropdown-toggle.btn-default {
+  background-color: #222339 !important;
+}
+body.dark-theme .job-bx-title .btn.dropdown-toggle.btn-default {
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+body.dark-theme .job-categories .icon-bx-wraper:after {
+  background-image: url(../images/categories-bg-dark.png);
+}
+body.dark-theme .logo-header .logo {
+  display: none;
+}
+body.dark-theme .logo-header .logo-white {
+  display: table-cell;
+}
+body.dark-theme .right-arrow {
+  background-image: url(../images/sap-dark.png);
+}
